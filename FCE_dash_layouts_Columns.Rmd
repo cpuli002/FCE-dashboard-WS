@@ -1,0 +1,31 @@
+---
+title: "FCE Workshop"
+output: flexdashboard::flex_dashboard
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+---
+    
+Column
+-------------------------------------
+    
+### Chart 1
+    
+```{r}
+```
+   
+Column
+-------------------------------------
+   
+### Chart 2
+
+```{r}
+```   
+ 
+### Chart 3
+    
+```{r}
+```
